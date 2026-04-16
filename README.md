@@ -1,5 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently working on: Fullstack e-commerce website (computer store) with AI chatbot<br><br>🤝 I’m looking to collaborate on: Web development projects (React, NodeJS, AI integration)<br><br>🆘 I’m looking for help with: Backend optimization, AI chatbot training & deployment<br><br>🌱 I’m currently learning: ReactJS, NodeJS, MongoDB, REST API, AI chatbot<br><br>💬 Ask me about: JavaScript, SQL, Web development, MVC architecture<br><br>⚡ Fun fact: I spend more time debugging than coding 😆<br>
 
 
 ## 🌐 Socials:
